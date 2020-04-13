@@ -1,0 +1,675 @@
+@media (max-width: 1350px) {
+/*------------------------------------*\
+  GET-STARTED
+\*------------------------------------*/
+.get-started__title {
+  margin-top: 10%;
+  font-size: 40px;
+  line-height: 0px;
+}
+.get-started__text {
+  font-size: 14px;
+  line-height: 30px;
+  width: 50.5vw;
+  padding-bottom: 1rem;
+}
+.get-started__choose__text {
+  font-size: 20px;
+}
+/*------------------------------------*\
+  CONTACT
+\*------------------------------------*/
+.contact__phone {
+  right: 54.5rem;
+}
+}
+
+@media (max-width: 1260px) {
+/*------------------------------------*\
+  CONTACT
+\*------------------------------------*/
+  .contact__phone {
+    right: 50.5rem;
+  }
+}
+@media (max-width: 1250px) {
+/*------------------------------------*\
+    REVIEWS 
+\*------------------------------------*/
+.reviews__block__first__title {
+  font-size: 22px;
+}
+.reviews__block__text {
+  font-size: 14px;
+}
+.reviews__block__arrow {
+  top: 18rem;
+}
+.reviews__block__first::before {
+  top: -120px;
+  width: 60vw;
+  height: 51vw;
+}
+.reviews__block__second__text {
+  font-size: 14px;
+}
+/*------------------------------------*\
+  CONTACT
+\*------------------------------------*/
+.contact__phone {
+  right: 48.5rem;
+}
+/*------------------------------------*\
+  FOOTER
+\*------------------------------------*/
+.footer::after {
+  right: -3rem;
+  width: 34vw;
+  height: 65vw;
+}
+.footer__bottom::before {
+  top: 27.4rem;
+  left: 3rem;
+}
+.footer__bottom::after {
+  top: 27rem;
+  left: -12rem;
+}
+}
+
+@media (max-width: 1150px) {
+/*------------------------------------*\
+  CONTACT
+\*------------------------------------*/
+  .contact__phone {
+    right: 45.5rem;
+  }
+/*------------------------------------*\
+  FOOTER
+\*------------------------------------*/
+  .footer::after {
+    width: 36vw;
+    height: 75vw;
+  }
+  .footer__bottom::before {
+    top: 29.4rem;
+    left: 3rem;
+  }
+  .footer__bottom::after {
+    top: 29rem;
+    left: -12rem;
+  }
+}
+
+@media (max-width: 1060px) {
+/*------------------------------------*\
+  CONTACT
+\*------------------------------------*/
+  .contact__phone {
+    right: 41.5rem;
+  }
+}
+
+@media (max-width: 1000px) {
+/*------------------------------------*\
+    ADVANTAGES
+\*------------------------------------*/
+.advantages__items {
+  width: 90%;
+}
+/*------------------------------------*\
+  GET-STARTED
+\*------------------------------------*/
+.get-started__title {
+  font-size: 36px;
+}
+.get-started__choose__text {
+  display: none;
+}
+/*------------------------------------*\
+    REVIEWS 
+\*------------------------------------*/
+.reviews__block__first__title {
+  font-size: 18px;
+}
+.reviews__block__text {
+  font-size: 12px;
+  width: 38vw;
+}
+.reviews__block__arrow {
+  top: 16rem;
+}
+.reviews__block__first::before {
+  top: -90px;
+  width: 65vw;
+  height: 55vw;
+}
+.reviews__block__second__text {
+  font-size: 12px;
+}
+/*------------------------------------*\
+  OUR-WORK
+\*------------------------------------*/
+.our-work__items {
+  flex-direction: column;
+  width: 100%;
+  padding: 0 0 0 0rem;
+}
+.our-work__desc {
+  width: 50vw;
+  height: 37vw;
+  margin-left: 4%;
+}
+.our-work__desc__arrow {
+  top: 14.7rem;
+}
+.our-work__slider {
+  width: 90vw;
+}
+.slider__items img{
+  max-width: 30%;
+}
+/*------------------------------------*\
+  CONTACT
+\*------------------------------------*/
+.contact {
+  padding-top: 10%;
+}
+.contact__phone {
+  right: 37.5rem;
+}
+/*------------------------------------*\
+  FOOTER
+\*------------------------------------*/
+.footer__text {
+  width: 46.5vw;
+}
+.footer::after {
+  top: 9rem;  
+  width: 50vw;
+  height: 86vw;
+}
+.footer__bottom::before {
+  left: 6rem;
+  top: 37rem;
+}
+.footer__bottom::after {
+  top: 37rem;
+  left: -5rem;
+}
+.icon-f:first-child {
+  fill: #fff;
+}
+}
+
+@media (max-width: 930px) {
+/*------------------------------------*\
+  CONTACT
+\*------------------------------------*/
+  .contact__phone {
+    right: 34.5rem;
+  }
+}
+
+@media (max-width: 860px) {
+/*------------------------------------*\
+  CONTACT
+\*------------------------------------*/
+  .contact__phone {
+    right: 30.5rem;
+  }
+}
+
+@media (max-width: 800px) {
+/*------------------------------------*\
+  HEADER
+\*------------------------------------*/
+.header__bottom__more-details {
+  margin-top: 4rem;
+}
+.header__bottom__more-details_arroy {
+  position: absolute;
+  top: 3.7rem;
+}
+.header__bottom__phone {
+  top: -100px;
+}
+.header__bottom__more-details_arrow {
+  top: 3.7rem;
+}
+/*------------------------------------*\
+  GET-STARTED
+\*------------------------------------*/
+.get-started__title {
+  margin-top: 13%;
+  font-size: 30px;
+}
+.get-started__text {
+  display: none;
+}
+/*------------------------------------*\
+    REVIEWS 
+\*------------------------------------*/
+.reviews__block {
+  flex-direction: column;
+  align-items: center;
+}
+.reviews__block__first::before {
+  display: none;
+}
+.reviews__block__first {
+  background-color: #CAF7FF;
+  width: 80vw;
+  height: 45vw;
+  border-radius: 10%;
+  padding: 3%;
+}
+.reviews__block__text {
+  width: 70vw;
+}
+.reviews__block__arrow {
+  top: 15rem;
+  left: 1rem;
+}
+.reviews__block__second {
+  width: 70vw;
+  padding-top: 10%;
+}
+/*------------------------------------*\
+  OUR-WORK
+\*------------------------------------*/
+.our-work__desc__subtitle {
+  margin-top: 2rem;
+  font-size: 18px;
+  line-height: 20px;
+}
+.our-work__desc__arrow {
+  top: 10.7rem;
+}
+/*------------------------------------*\
+  CONTACT
+\*------------------------------------*/
+.contact {
+  padding-top: 0%;
+}
+.contact__content {
+  flex-direction: column;
+  align-items: center;
+}
+.header__bottom__phone {
+  display: none;
+}
+.contact__form {
+  width: 75vw;
+}
+.contact__social {
+  flex-direction: unset;
+  margin-top: 1.5rem;
+}
+.contact__social__twitter {
+  margin-left: 0rem;
+}
+/*------------------------------------*\
+  FOOTER
+\*------------------------------------*/
+.footer__title {
+  width: 65vw;
+}
+.footer__bottom {
+  background: var(--color-secondary);
+  border-radius: 176px 0 0 0;
+}
+.footer__container {
+  width: 80vw;
+}
+.footer__item__title {
+  padding-bottom: 1rem;
+}
+.footer__items li {
+  line-height: 30px;
+}
+.footer__social {
+  width: 19vw;
+}
+footer::after {
+  display: none;
+}
+.footer__bottom::before {
+  display: none;
+}
+.footer__bottom::after {
+  display: none;
+}
+
+}
+
+@media (max-width: 680px) {
+/*------------------------------------*\
+  HEADER
+\*------------------------------------*/
+.burger-menu {
+  top: 0.5rem;
+}
+.nav-bar__ul {
+  display: none;
+}
+.pop-up__menu{
+    width: 100%;
+}
+.header_main__img img{
+  display: none;
+}
+.header_main__title {
+  font-size: 32px;
+}
+.header_main__text {
+  font-size: 12px;
+  width: 60vw;
+}
+.header__bottom__phone {
+  display: none;
+}
+.pop-up__menu{
+  opacity: 1;
+}
+
+
+
+/*------------------------------------*\
+    ADVANTAGES
+\*------------------------------------*/
+.advantages__title {
+  font-size: 32px;
+}
+.advantages__text {
+  font-size: 12px;
+}
+.advantages__item__span {
+  font-size: 10px;
+}
+.advantages__item__subtitle {
+  font-size: 20px;
+}
+.advantages__item__text{
+  display: none;
+}
+.advantages__img {
+  width: 30vw;
+}
+/*------------------------------------*\
+  GET-STARTED
+\*------------------------------------*/
+.get-started__title {
+  margin-top: 5%;
+  font-size: 20px;
+}
+.get-started__choose {
+  flex-direction: column;
+}
+.get-started__choose__btn-pink {
+  margin: 0.5rem 1rem;
+}
+/*------------------------------------*\
+    REVIEWS 
+\*------------------------------------*/
+.reviews__block__text {
+  width: 70vw;
+  line-height: 30px;
+}
+.reviews__block__arrow {
+  top: 12rem;
+}
+/*------------------------------------*\
+  OUR-WORK
+\*------------------------------------*/
+.our-work__desc {
+  width: 80vw;
+}
+.our-work__desc__arrow {
+  top: 8.7rem;
+}
+/*------------------------------------*\
+  FOOTER
+\*------------------------------------*/
+.footer__title {
+  width: 80vw;
+}
+.footer__text {
+  width: 70.5vw;
+}
+.footer__container {
+  flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.footer__items {
+  width: 21vw;
+  text-align: center;
+}
+.footer__social {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+}
+.footer__soc__icons {
+  width: 25vw;
+}
+}
+
+@media (max-width: 550px) {
+/*------------------------------------*\
+    REVIEWS 
+\*------------------------------------*/
+.reviews__block__first {
+  height: 55vw;
+}
+.reviews__block__first__title {
+  line-height: 10px;
+}
+/*------------------------------------*\
+  OUR-WORK
+\*------------------------------------*/
+.our-work__text {
+  width: 70vw;
+  font-size: 12px;
+  padding-bottom: 3%;
+}
+.tab-h {
+  padding: 8px 10px;
+  font-size: 12px;
+}
+.our-work__desc {
+  height: 42vw;
+  margin-left: 8%;
+}
+.slider__items img {
+  max-width: 45%;
+}
+/*------------------------------------*\
+    REVIEWS 
+\*------------------------------------*/
+.reviews__title{
+  font-size: 24px;
+  line-height: 45px;
+}
+.reviews__text {
+  font-size: 14px;
+  width: 70vw;
+}
+/*------------------------------------*\
+  FOOTER
+\*------------------------------------*/
+.footer__title {
+  font-size: 30px;
+  line-height: 40px;
+}
+}
+
+@media (max-width: 450px) {
+/*------------------------------------*\
+    ADVANTAGES
+\*------------------------------------*/
+.advantages__item__span {
+  padding-left: 1.5rem;
+}
+.advantages__item__subtitle {
+  font-size: 14px;
+}
+.advantages__item__button {
+  padding: 10px 25px 10px 25px;
+}
+/*------------------------------------*\
+  GET-STARTED
+\*------------------------------------*/
+.get-started__title {
+  margin-top: 10%;
+  font-size: 16px;
+}
+.get-started::before {
+  top: 25px;
+  left: 60%;
+}
+.get-started::after {
+  left: 14%;
+  width: 75vw;
+  height: 64vw;
+}
+.get-started__choose__btn-pink {
+  padding: 10px 35px 10px 35px;
+}
+.get-started__choose__btn-blue {
+  padding: 11px 35px 11px 35px;
+}
+.get-started__choose__btn-blue:hover,
+.get-started__choose__btn-blue:active {
+  padding: 11px 35px 11px 35px;
+}
+/*------------------------------------*\
+    REVIEWS 
+\*------------------------------------*/
+.reviews__block__arrow {
+  top: 11.5rem;
+}
+/*------------------------------------*\
+  OUR-WORK
+\*------------------------------------*/
+.our-work__desc {
+  height: 33vw;
+}
+.our-work__desc__subtitle {
+  font-size: 16px;
+}
+.our-work__desc__text {
+  display: none;
+}
+.our-work__desc__arrow {
+  top: 4.7rem;
+}
+/*------------------------------------*\
+  CONTACT
+\*------------------------------------*/
+.contact__title{
+  font-size: 24px;
+}
+.contact__text {
+  font-size: 14px;
+  width: 75vw;
+}
+/*------------------------------------*\
+  FOOTER
+\*------------------------------------*/
+.footer__title{
+  font-size: 20px;
+  line-height: 35px;
+}
+.footer__text {
+  font-size: 12px;
+  width: 48vw;
+}
+.footer__e-mail {
+  width: 270px;
+}
+}
+
+@media (max-width: 420px) {
+/*------------------------------------*\
+  HEADER
+\*------------------------------------*/
+.header_main__title {
+  font-size: 26px;
+}
+.header_main__text {
+  font-size: 12px;
+  width: 60vw;
+}
+.header__bottom__more-details {
+  margin-top: 2rem;
+  font-size: 12px;
+}
+.header__bottom__more-details_arrow {
+  top: 2rem;
+  left: 16rem;
+  width: 34px;
+  height: 34px;
+}
+.reviews__block__text {
+  display: none;
+}
+.reviews__block__first__title {
+  font-size: 14px;
+}
+.reviews__block__first {
+  height: 37vw;
+}
+.reviews__block__arrow {
+  top: 4.5rem;
+}
+/*------------------------------------*\
+  OUR-WORK
+\*------------------------------------*/
+.our-work__desc {
+  height: 38vw;
+}
+.slider__items img {
+  max-width: 90%;
+}
+/*------------------------------------*\
+  FOOTER
+\*------------------------------------*/
+.footer__top {
+  padding-bottom: 8%;
+}
+.footer__text {
+  margin-bottom: 1.5rem;
+}
+.footer__e-mail {
+  width: 250px;
+}
+.footer__container {
+  padding-top: 2rem;
+}
+.footer__items {
+  display: none;
+}
+.footer__social {
+  flex-direction: column;
+  margin-top: 1rem;
+}
+.footer__soc__icons {
+  padding: 1rem 0;
+  width: 40vw;
+}
+
+}
+
+@media (max-width: 360px) {
+/*------------------------------------*\
+  HEADER
+\*------------------------------------*/
+.header__bottom__more-details {
+  margin-left: 0;
+}
+.header__bottom__more-details_arrow {
+  left: 14rem;
+}
+}
